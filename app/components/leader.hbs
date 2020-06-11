@@ -1,0 +1,24 @@
+<article class="leader">
+  <Leader::Image
+    src="{{@leader.image}}"
+    alt="A picture of {{@leader.title}}"
+  />
+  <div class="details">
+    <h3>{{@leader.title}}</h3>
+
+    <div class="detail leadership-qualities">
+      <span>Leader qualities:</span> {{@leader.leadership_qualities}}
+    </div>
+    
+    <div class="detail known-for">
+      <span>Known for:</span> {{@leader.known_for}}
+    </div>
+    <div class="detail location">
+      <span>Location:</span> {{@leader.location_city}}
+    </div>
+    <div class="detail net-worth">
+      <span>Net worth:</span> {{@leader.net_worth}}
+    </div>
+  
+  </div>
+</article>

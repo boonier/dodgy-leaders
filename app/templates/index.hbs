@@ -1,0 +1,13 @@
+<Jumbo>
+  <h2>Choose your leader!</h2>
+  <p>We hope you find exactly what you're looking for in a really <strike>awful</strike> great leader.</p>
+  <LinkTo @route="about" class="button">About us</LinkTo>
+  <div class="leaders">
+    <ul class="results">
+
+      {{#each @model as |leader|}}
+        <li><Leader @leader={{leader}} /></li>
+      {{/each}}
+    </ul>
+  </div>
+</Jumbo>
