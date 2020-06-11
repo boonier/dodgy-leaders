@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "title": "Donald Trump",
+      "leadership_qualities": "Disruptor, nut-job, being orange",
+      "known_for": "Insighting unrest, cheese burgers, advising people drink bleach",
+      "location_city": "Washington DC, USA",
+      "location": {
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "net_worth": "$100 billion ++ better than +++",
+      "image": "https://sadanduseless.b-cdn.net/wp-content/uploads/2019/06/funny-man-buns10.jpg"
+    },
+    {
+      "title": "Boris Johnson a.k.a The Yeti",
+      "leadership_qualities": "Dunno yet, do you?",
+      "known_for": "Buffoonery, \"Getting Brexit done\"",
+      "location_city": "London, UK",
+      "location": {
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "net_worth": "£10 (official)",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-10/9/10/enhanced/webdr12/original-25562-1444402465-11.jpg"
+    },
+    {
+      "title": "Vladimir Putin",
+      "leadership_qualities": "Says one thing...does another, scary",
+      "known_for": "Making things... disappear, bare-chested horse riding",
+      "location_city": "Moscow, Russia",
+      "location": {
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "net_worth": "$$ lots of fingers in pies rich",
+      "image": "https://sadanduseless.b-cdn.net/wp-content/uploads/2019/06/funny-man-buns17.jpg"
+    }
+  ]
+}

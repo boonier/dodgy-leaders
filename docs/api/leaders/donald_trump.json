@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Donald Trump",
+    "leadership_qualities": "Disruptor, nut-job, being orange",
+    "known_for": "Insighting unrest, advising people drink bleach",
+    "location_city": "Washington DC, USA",
+    "location": {
+      "lat": 37.7749,
+      "lng": -122.4194
+    },
+    "net_worth": "$100 billion ++",
+    "image": "https://sadanduseless.b-cdn.net/wp-content/uploads/2019/06/funny-man-buns10.jpg"
+  }
+}

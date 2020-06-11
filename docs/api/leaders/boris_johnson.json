@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Boris Johnson",
+    "leadership_qualities": "Dunno yet",
+    "known_for": "Buffoonery, The Yeti",
+    "location_city": "London, UK",
+    "location": {
+      "lat": 37.7749,
+      "lng": -122.4194
+    },
+    "net_worth": "£10,000 (official)",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-10/9/10/enhanced/webdr12/original-25562-1444402465-11.jpg"
+  }
+}
