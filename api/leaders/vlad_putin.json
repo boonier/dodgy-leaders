@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Vladimir Putin",
+    "leadership_qualities": "Says one thing...does another, scary",
+    "known_for": "Making things disappear",
+    "location_city": "Moscow, Russia",
+    "location": {
+      "lat": 37.7749,
+      "lng": -122.4194
+    },
+    "net_worth": "$100 billion +++??",
+    "image": "https://sadanduseless.b-cdn.net/wp-content/uploads/2019/06/funny-man-buns17.jpg"
+  }
+}
